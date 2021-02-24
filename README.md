@@ -24,3 +24,13 @@ Regresión del PIB a diversos factores de la economía de un país usando una re
 
 ## Práctica 2
 
+### Parte 1
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gl/daviddavo%2F19ia/HEAD?filepath=Practica2%2FP2P1_IA.ipynb)
+
+Análisis de sentimiento de opiniones positivas/negativas de Yelp. Transformación del texto en bolsa de palabras, vectorización con TF-IDF. Comparamos un clasificador naive bayes con un árbol de decisión.
+
+## Parte 2
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gl/daviddavo%2F19ia/HEAD?filepath=Practica1%2FP2P2_IA.ipynb)
+
+Se realiza un buscador de mensajes en un foro. Para ello se usa la similitud del coseno para calcular la relevancia de cada mensaje con respecto a la consulta.
+
