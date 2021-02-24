@@ -7,6 +7,8 @@
 
 Prácticas de aprendizaje automático, preparación, representación, análisis, representación y validación de datos. Se han usado árboles de decisión, algoritmos de clústering, redes neuronales...
 
+También se realiza análisis de textos y consultas sobre redes semánticas del conocimiento como WikiData.
+
 ### Parte 1
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gl/daviddavo%2F19ia/HEAD?filepath=Practica1%2FP1P1_IA2.ipynb)
 
@@ -29,8 +31,18 @@ Regresión del PIB a diversos factores de la economía de un país usando una re
 
 Análisis de sentimiento de opiniones positivas/negativas de Yelp. Transformación del texto en bolsa de palabras, vectorización con TF-IDF. Comparamos un clasificador naive bayes con un árbol de decisión.
 
-## Parte 2
+### Parte 2
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gl/daviddavo%2F19ia/HEAD?filepath=Practica1%2FP2P2_IA.ipynb)
 
 Se realiza un buscador de mensajes en un foro. Para ello se usa la similitud del coseno para calcular la relevancia de cada mensaje con respecto a la consulta.
 
+
+## Práctica 3
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gl/daviddavo%2F19ia/HEAD?filepath=Practica1%2FP3IA.ipynb)
+
+Se realizan consultas sobre wikidata en el lenguaje declarativo SPARQL. Las consultas las podemos realizar en ipynb tras registrar un `cell_magic` personalizado.
+
+## Práctica 4
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gl/daviddavo%2F19ia/HEAD?filepath=Practica1%2FP4_IA.ipynb)
+
+Práctica opcional en la que se implementan funciones para retornar las relaciones (caminos con entidades y propiedades comunes) entre dos entidades.
