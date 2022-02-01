@@ -1,4 +1,4 @@
-[David Davó Laviña](https://ddavo.me) y Ela K. Shepherd Arévalo
+[David Davó Laviña](https://ddavo.me) y [Ela K. Shepherd Arévalo](https://github.com/Elaphernelia)
 
 # Prácticas de Inteligencia Artificial
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gl/daviddavo%2F19ia/HEAD)
